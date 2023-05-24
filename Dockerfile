@@ -1,2 +1,2 @@
-From  prometheus:2.43.0-debian-11-r13
+From  quay.io/prometheus/prometheus:v2.36.1
 
